@@ -80,3 +80,4 @@ document.addEventListener('DOMContentLoaded', () => {
     document.body.appendChild(addQuoteButton);
     addQuoteButton.addEventListener('click', createAddQuoteForm);
 });
+
